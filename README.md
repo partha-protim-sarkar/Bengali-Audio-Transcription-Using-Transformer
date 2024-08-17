@@ -1,0 +1,1 @@
+This repository contains the code for the Bengali Audio Transcription using Transformer project. The project focuses on developing a transformer-based model to transcribe Bengali audio speech into text, utilizing Python and TensorFlow. This work was completed during my 3rd semester of the Master of Computer Application (MCA) program.
